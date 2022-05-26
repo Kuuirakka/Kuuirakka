@@ -1,1 +1,1 @@
-UCB cs61a self-learning
+Learnig CS!
